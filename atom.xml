@@ -4,13 +4,26 @@
   <title>smnevans</title>
   <link href="http://smnevans.github.com/smnevans/atom.xml" rel="self"/>
   <link href="http://smnevans.github.com/smnevans/"/>
-  <updated>2011-09-24T01:41:47+09:00</updated>
+  <updated>2011-09-24T01:47:50+09:00</updated>
   <id>http://smnevans.github.com/smnevans/</id>
   <author>
     <name>Simon Evans</name>
     
   </author>
 
+  
+  <entry>
+    <title>Go to Bed</title>
+    <link href="http://smnevans.github.com/smnevans/blog/2011/09/24/go-to-bed/"/>
+    <updated>2011-09-24T01:46:00+09:00</updated>
+    <id>http://smnevans.github.com/smnevans/blog/2011/09/24/go-to-bed</id>
+    <content type="html">&lt;p&gt;Great stuff&lt;/p&gt;
+
+&lt;p&gt;Now. &lt;em&gt;*Go to bed.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;You fool.&lt;/em&gt;&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <title>That Was Not So Hard</title>
