@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>smnevans</title>
+  <link href="http://smnevans.github.com/smnevans/atom.xml" rel="self"/>
+  <link href="http://smnevans.github.com/smnevans/"/>
+  <updated>2011-09-24T01:41:47+09:00</updated>
+  <id>http://smnevans.github.com/smnevans/</id>
+  <author>
+    <name>Simon Evans</name>
+    
+  </author>
+
+  
+  <entry>
+    <title>That Was Not So Hard</title>
+    <link href="http://smnevans.github.com/smnevans/blog/2011/09/24/that-was-not-so-hard/"/>
+    <updated>2011-09-24T01:14:00+09:00</updated>
+    <id>http://smnevans.github.com/smnevans/blog/2011/09/24/that-was-not-so-hard</id>
+    <content type="html">&lt;h1&gt;This should work&lt;/h1&gt;
+
+&lt;p&gt;I&amp;#8217;m going to do some typing and then add a list.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Item One&lt;/li&gt;
+&lt;li&gt;Item Two&lt;/li&gt;
+&lt;li&gt;Item Three&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;And that&amp;#8217;s that.&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
+    <title>Hello Panthers</title>
+    <link href="http://smnevans.github.com/smnevans/blog/2011/09/24/hello-panthers/"/>
+    <updated>2011-09-24T01:09:00+09:00</updated>
+    <id>http://smnevans.github.com/smnevans/blog/2011/09/24/hello-panthers</id>
+    <content type="html">&lt;p&gt;So this is where I type?&lt;/p&gt;
+</content>
+  </entry>
+  
+</feed>
