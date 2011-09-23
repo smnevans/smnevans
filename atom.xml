@@ -4,7 +4,7 @@
   <title>smnevans</title>
   <link href="http://smnevans.github.com/smnevans/atom.xml" rel="self"/>
   <link href="http://smnevans.github.com/smnevans/"/>
-  <updated>2011-09-24T01:47:50+09:00</updated>
+  <updated>2011-09-24T01:48:55+09:00</updated>
   <id>http://smnevans.github.com/smnevans/</id>
   <author>
     <name>Simon Evans</name>
@@ -19,7 +19,7 @@
     <id>http://smnevans.github.com/smnevans/blog/2011/09/24/go-to-bed</id>
     <content type="html">&lt;p&gt;Great stuff&lt;/p&gt;
 
-&lt;p&gt;Now. &lt;em&gt;*Go to bed.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Now. &lt;strong&gt;Go to bed.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;You fool.&lt;/em&gt;&lt;/p&gt;
 </content>
