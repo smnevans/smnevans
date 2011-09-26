@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title>smnevans</title>
-  <link href="http://smnevans.github.com/smnevans/atom.xml" rel="self"/>
-  <link href="http://smnevans.github.com/smnevans/"/>
-  <updated>2011-09-26T21:46:22+09:00</updated>
-  <id>http://smnevans.github.com/smnevans/</id>
+  <link href="http://smnevans.com/atom.xml" rel="self"/>
+  <link href="http://smnevans.com/"/>
+  <updated>2011-09-26T22:11:43+09:00</updated>
+  <id>http://smnevans.com/</id>
   <author>
     <name>Simon Evans</name>
     
@@ -14,10 +14,10 @@
   
   <entry>
     <title>Pencil Stubs</title>
-    <link href="http://smnevans.github.com/smnevans/Blog/pencil-stubs/"/>
+    <link href="http://smnevans.com/Blog/pencil-stubs/"/>
     <updated>2011-09-22T11:53:53+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Blog/pencil-stubs</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://smnevans.github.com/smnevans/images/Pencil-Stubs.jpg&quot;&gt;&lt;img src=&quot;http://smnevans.github.com/smnevans/images/Pencil-Stubs.jpg&quot; alt=&quot;&quot; title=&quot;Pencil Stubs&quot; width=&quot;500&quot; class=&quot;alignleft size-full wp-image-905&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+    <id>http://smnevans.com/Blog/pencil-stubs</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://smnevans.com/images/Pencil-Stubs.jpg&quot;&gt;&lt;img src=&quot;http://smnevans.com/images/Pencil-Stubs.jpg&quot; alt=&quot;&quot; title=&quot;Pencil Stubs&quot; width=&quot;500&quot; class=&quot;alignleft size-full wp-image-905&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;About a third of my income goes to keeping my girls supplied with sparkly, cute pencils without which they would not be able to learn a &lt;em&gt;single thing&lt;/em&gt; at school.&lt;/p&gt;
 
@@ -27,9 +27,9 @@
   
   <entry>
     <title>Digital TV: Not so hard after all</title>
-    <link href="http://smnevans.github.com/smnevans/Blog/Japan/digital-tv-not-so-hard/"/>
+    <link href="http://smnevans.com/Blog/Japan/digital-tv-not-so-hard/"/>
     <updated>2011-09-18T14:55:06+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Blog/Japan/digital-tv-not-so-hard</id>
+    <id>http://smnevans.com/Blog/Japan/digital-tv-not-so-hard</id>
     <content type="html">&lt;p&gt;On July 24, when Japanese TV stations stopped analog broadcasts, I&amp;#8217;d done nothing to get our TV system digital-ready. I&amp;#8217;m not the biggest TV fan. The prospect of not having it for a while was about as daunting as imagining life without SPAM. I reckoned I&amp;#8217;d have to pay for a tuner, an antenna, and for someone to come out and install it. I was sure it would be expensive, time consuming and end up with me feeling somehow ripped off.&lt;/p&gt;
 
 &lt;p&gt;We were in Australia at the end of July so it wasn&amp;#8217;t an immediate problem. And even when we got back at the end of the month it was fine. If the kids wanted to watch something really badly they went to their grandmother&amp;#8217;s house and watched it there. I knew it was something I&amp;#8217;d have to take care of someday, though. On a Sunday near the end of August I took a deep breath and decided to do what needed doing.&lt;/p&gt;
@@ -48,11 +48,11 @@
   
   <entry>
     <title>Running from Trees</title>
-    <link href="http://smnevans.github.com/smnevans/Blog/running-from-trees/"/>
+    <link href="http://smnevans.com/Blog/running-from-trees/"/>
     <updated>2011-08-19T08:24:07+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Blog/running-from-trees</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://smnevans.github.com/smnevans/images/runningfromtrees.jpg&quot; target=&quot;_blank&quot;&gt;
-&lt;img src=&quot;http://smnevans.github.com/smnevans/images/runningfromtrees-small.jpg&quot;&lt;/img&gt;
+    <id>http://smnevans.com/Blog/running-from-trees</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://smnevans.com/images/runningfromtrees.jpg&quot; target=&quot;_blank&quot;&gt;
+&lt;img src=&quot;http://smnevans.com/images/runningfromtrees-small.jpg&quot;&lt;/img&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Apparently every picture I took in Australia features my daughter running somewhere.&lt;/p&gt;
@@ -61,29 +61,29 @@
   
   <entry>
     <title>My day in verbs</title>
-    <link href="http://smnevans.github.com/smnevans/Blog/my-day-in-verbs/"/>
+    <link href="http://smnevans.com/Blog/my-day-in-verbs/"/>
     <updated>2011-08-14T16:09:58+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Blog/my-day-in-verbs</id>
+    <id>http://smnevans.com/Blog/my-day-in-verbs</id>
     <content type="html">&lt;p&gt;So far today I have scrubbed and scraped and soaked and washed and hung and boiled and drained and chopped and vacuumed and sorted and tossed and ripped and torn and bagged and boxed.&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <title>Daughter in Desert</title>
-    <link href="http://smnevans.github.com/smnevans/Blog/daughter-in-desert/"/>
+    <link href="http://smnevans.com/Blog/daughter-in-desert/"/>
     <updated>2011-08-14T07:19:36+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Blog/daughter-in-desert</id>
+    <id>http://smnevans.com/Blog/daughter-in-desert</id>
     <content type="html">&lt;p&gt;&lt;a href=&quot;images/daughterindesert.jpg&quot; target=&quot;_blank&quot;&gt;
-&lt;img src=&quot;http://smnevans.github.com/smnevans/images/daughterindesert-small.jpg&quot;&lt;/img&gt;
+&lt;img src=&quot;http://smnevans.com/images/daughterindesert-small.jpg&quot;&lt;/img&gt;
 &lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
   
   <entry>
     <title>Why does Lion switch away from full-screen apps on wake?</title>
-    <link href="http://smnevans.github.com/smnevans/Blog/why-does-lion-switch-away-from-full-screen-apps-on-wake/"/>
+    <link href="http://smnevans.com/Blog/why-does-lion-switch-away-from-full-screen-apps-on-wake/"/>
     <updated>2011-08-10T23:19:37+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Blog/why-does-lion-switch-away-from-full-screen-apps-on-wake</id>
+    <id>http://smnevans.com/Blog/why-does-lion-switch-away-from-full-screen-apps-on-wake</id>
     <content type="html">&lt;p&gt;What&amp;#8217;s going on here?&lt;/p&gt;
 
 &lt;p&gt;When I put my MacBook to sleep, Safari (in full-screen) is the active application. When I wake it up it immediately switches to the Finder or some other non-full-screen app.&lt;/p&gt;
@@ -102,9 +102,9 @@
   
   <entry>
     <title>Can Cats Learn?</title>
-    <link href="http://smnevans.github.com/smnevans/Blog/can-cats-learn/"/>
+    <link href="http://smnevans.com/Blog/can-cats-learn/"/>
     <updated>2011-08-10T22:11:17+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Blog/can-cats-learn</id>
+    <id>http://smnevans.com/Blog/can-cats-learn</id>
     <content type="html">&lt;p&gt;Every time our cat slips through our defenses and gets outside she sets to eating some leaves. When she comes back she invariably throws up the leaves and whatever else is in her stomach. She doesn&amp;#8217;t seem to enjoy it very much.&lt;/p&gt;
 
 &lt;p&gt;You may not be able to teach an old dog new tricks. I wonder if cats are even capable of learning?&lt;/p&gt;
@@ -113,10 +113,10 @@
   
   <entry>
     <title>Bonsai Gardener</title>
-    <link href="http://smnevans.github.com/smnevans/Blog/bonsai-gardener/"/>
+    <link href="http://smnevans.com/Blog/bonsai-gardener/"/>
     <updated>2011-06-29T11:58:59+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Blog/bonsai-gardener</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://smnevans.github.com/smnevans/images/165562_141319619259490_100001443579520_251748_7509133_n.jpg&quot;&gt;&lt;img src=&quot;http://smnevans.github.com/smnevans/images/165562_141319619259490_100001443579520_251748_7509133_n-300x200.jpg&quot; alt=&quot;&quot; title=&quot;Glove Tree&quot; width=&quot;300&quot; height=&quot;200&quot; class=&quot;size-medium wp-image-852&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+    <id>http://smnevans.com/Blog/bonsai-gardener</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://smnevans.com/images/165562_141319619259490_100001443579520_251748_7509133_n.jpg&quot;&gt;&lt;img src=&quot;http://smnevans.com/images/165562_141319619259490_100001443579520_251748_7509133_n-300x200.jpg&quot; alt=&quot;&quot; title=&quot;Glove Tree&quot; width=&quot;300&quot; height=&quot;200&quot; class=&quot;size-medium wp-image-852&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;The first time I write something on Twitter it is almost always more than 140 characters long. I contract what I can, delete pronouns, pluck out adjectives and remove modifiers until I get there.&lt;/p&gt;
 
@@ -126,9 +126,9 @@
   
   <entry>
     <title>Dave Berman has a blog</title>
-    <link href="http://smnevans.github.com/smnevans/Notes/dave-berman-has-a-blog/"/>
+    <link href="http://smnevans.com/Notes/dave-berman-has-a-blog/"/>
     <updated>2011-03-31T17:05:31+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Notes/dave-berman-has-a-blog</id>
+    <id>http://smnevans.com/Notes/dave-berman-has-a-blog</id>
     <content type="html">&lt;p&gt;It&amp;#8217;s called &lt;a href=&quot;http://mentholmountains.blogspot.com/&quot;&gt;mentholmountains&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In the winter of 1995 I wrote my first and only fan letter. It was to Dave Berman, leader of the Silver Jews. A couple of months later I got a reply from him written on a plain ole index card.&lt;/p&gt;
@@ -141,9 +141,9 @@
   
   <entry>
     <title>Like Someone from the Showa Period</title>
-    <link href="http://smnevans.github.com/smnevans/Notes/like-someone-from-the-showa-period/"/>
+    <link href="http://smnevans.com/Notes/like-someone-from-the-showa-period/"/>
     <updated>2011-03-31T12:30:11+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Notes/like-someone-from-the-showa-period</id>
+    <id>http://smnevans.com/Notes/like-someone-from-the-showa-period</id>
     <content type="html">&lt;p style=&quot;outline-width: 0px; outline-style: none; outline-color: initial; margin-top: 10px; margin-bottom: 10px; margin-right: 0px; margin-left: 0px;&quot;&gt;I had some classical music streaming via the Naxos Music Library app through the iPad during one of my lessons today. The kid I was teaching asked what it was. I didn’t know, I’d just chosen a playlist called ‘Cello Music’, so I told her it was the radio. She seemed to accept that but, at the end of the lesson she said something odd in Japanese.&lt;/p&gt;
 
 
@@ -160,9 +160,9 @@
   
   <entry>
     <title>Tron: Legacy</title>
-    <link href="http://smnevans.github.com/smnevans/Movies/Notes/tron-legacy/"/>
+    <link href="http://smnevans.com/Movies/Notes/tron-legacy/"/>
     <updated>2011-01-11T09:08:54+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Movies/Notes/tron-legacy</id>
+    <id>http://smnevans.com/Movies/Notes/tron-legacy</id>
     <content type="html">&lt;p&gt;I went to &amp;#8216;Tron: Legacy&amp;#8217; with a pretty clear idea of what I was getting into. I expected the visuals to be fantastic, and the story to be very average.&lt;/p&gt;
 
 &lt;p&gt;It surpassed my expectations in both regards. The visuals were even more beautiful than I&amp;#8217;d hoped. The story and dialogue were much, much worse than I&amp;#8217;d feared. So much so that I wish I&amp;#8217;d gone to see the dubbed Japanese version.&lt;/p&gt;
@@ -173,9 +173,9 @@
   
   <entry>
     <title>Alligators</title>
-    <link href="http://smnevans.github.com/smnevans/Notes/alligators/"/>
+    <link href="http://smnevans.com/Notes/alligators/"/>
     <updated>2010-12-22T11:59:01+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Notes/alligators</id>
+    <id>http://smnevans.com/Notes/alligators</id>
     <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/simonevans/5289606310/&quot; title=&quot;Falling down by smnevans, on Flickr&quot;&gt;&lt;img src=&quot;http://farm6.static.flickr.com/5202/5289606310_0913c6d0f6.jpg&quot; width=&quot;500&quot; height=&quot;334&quot; alt=&quot;Falling down&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;She forced herself to ignore the beasts thrashing in the water below. In moments, she would be on board, safe with her crew.&lt;/p&gt;
@@ -186,10 +186,10 @@
   
   <entry>
     <title>How to park a car</title>
-    <link href="http://smnevans.github.com/smnevans/Notes/how-to-park-a-car/"/>
+    <link href="http://smnevans.com/Notes/how-to-park-a-car/"/>
     <updated>2010-12-21T15:07:47+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Notes/how-to-park-a-car</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://smnevans.github.com/smnevans/images/20101221-030134.jpg&quot;&gt;&lt;img src=&quot;http://smnevans.github.com/smnevans/images/20101221-030134.jpg&quot; alt=&quot;Locked Door&quot; width=&quot;500&quot; class=&quot;alignleft size-full wp-image-785&quot; /&gt;
+    <id>http://smnevans.com/Notes/how-to-park-a-car</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://smnevans.com/images/20101221-030134.jpg&quot;&gt;&lt;img src=&quot;http://smnevans.com/images/20101221-030134.jpg&quot; alt=&quot;Locked Door&quot; width=&quot;500&quot; class=&quot;alignleft size-full wp-image-785&quot; /&gt;
 &lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 
 &lt;ol&gt;
@@ -214,12 +214,12 @@ Eight years ago.&lt;/p&gt;
   
   <entry>
     <title>Smashed</title>
-    <link href="http://smnevans.github.com/smnevans/Notes/smashed/"/>
+    <link href="http://smnevans.com/Notes/smashed/"/>
     <updated>2010-12-19T10:52:30+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Notes/smashed</id>
-    <content type="html">&lt;p&gt;&lt;a href=&quot;http://smnevans.github.com/smnevans/images/Smashed-Pottery.jpg&quot; alt=&quot;&quot; title=&quot;Smashed Pottery&quot; width=&quot;500&quot; class=&quot;alignleft size-full wp-image-785&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+    <id>http://smnevans.com/Notes/smashed</id>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;http://smnevans.com/images/Smashed-Pottery.jpg&quot; alt=&quot;&quot; title=&quot;Smashed Pottery&quot; width=&quot;500&quot; class=&quot;alignleft size-full wp-image-785&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://smnevans.github.com/smnevans/images//More-Smashed-Pottery1.jpg&quot;&gt;&lt;img src=&quot;http://smnevans.github.com/smnevans/images//More-Smashed-Pottery1.jpg&quot; alt=&quot;&quot; title=&quot;More Smashed Pottery&quot; width=&quot;500&quot; class=&quot;alignleft size-full wp-image-799&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://smnevans.com/images//More-Smashed-Pottery1.jpg&quot;&gt;&lt;img src=&quot;http://smnevans.com/images//More-Smashed-Pottery1.jpg&quot; alt=&quot;&quot; title=&quot;More Smashed Pottery&quot; width=&quot;500&quot; class=&quot;alignleft size-full wp-image-799&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;I managed to smash not one, but &lt;strong&gt;two&lt;/strong&gt; of my wife&amp;#8217;s favourite pieces of pottery in just five seconds.&lt;/p&gt;
 
@@ -231,9 +231,9 @@ Eight years ago.&lt;/p&gt;
   
   <entry>
     <title>Painting the bathroom</title>
-    <link href="http://smnevans.github.com/smnevans/Notes/painting-the-bathroom/"/>
+    <link href="http://smnevans.com/Notes/painting-the-bathroom/"/>
     <updated>2010-12-16T00:27:11+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Notes/painting-the-bathroom</id>
+    <id>http://smnevans.com/Notes/painting-the-bathroom</id>
     <content type="html">&lt;p&gt;After four months of procrastination I finally painted the bathroom today and somehow did it without killing myself.&lt;/p&gt;
 
 &lt;p&gt;It was a little hairy at times, I had to stand on tiptoes on the rim of the bathtub to reach the ceiling above. I almost lost my balance a couple of times but my ninja training kept me on my feet.&lt;/p&gt;
@@ -244,9 +244,9 @@ Eight years ago.&lt;/p&gt;
   
   <entry>
     <title>Sufjan Stevens - Banana Fritter</title>
-    <link href="http://smnevans.github.com/smnevans/Notes/sufjan-stevens-banana-fritter/"/>
+    <link href="http://smnevans.com/Notes/sufjan-stevens-banana-fritter/"/>
     <updated>2010-12-16T00:14:09+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Notes/sufjan-stevens-banana-fritter</id>
+    <id>http://smnevans.com/Notes/sufjan-stevens-banana-fritter</id>
     <content type="html">&lt;p&gt;Playing Sufjan Stevens&amp;#8217; &amp;#8216;Illinoise&amp;#8217; for my wife for the first time.&lt;/p&gt;
 
 &lt;p&gt;She says she likes it, makes her want to eat a banana fritter.&lt;/p&gt;
@@ -255,9 +255,9 @@ Eight years ago.&lt;/p&gt;
   
   <entry>
     <title>An Unhappy Meal</title>
-    <link href="http://smnevans.github.com/smnevans/Blog/Food/Notes/an-unhappy-meal/"/>
+    <link href="http://smnevans.com/Blog/Food/Notes/an-unhappy-meal/"/>
     <updated>2010-12-08T09:53:21+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Blog/Food/Notes/an-unhappy-meal</id>
+    <id>http://smnevans.com/Blog/Food/Notes/an-unhappy-meal</id>
     <content type="html">&lt;p&gt;I used to have a terrible, terrible diet.&lt;/p&gt;
 
 &lt;p&gt;McDonalds was my default place for a quick, filling(!) lunch and I always ordered the same thing: a Big Mac, a Double Cheeseburger, Medium Fries, and a cup of coffee. All that weighs in at just under &lt;strong&gt;1,500&lt;/strong&gt; calories and I used to polish it off in five, maybe ten minutes.&lt;/p&gt;
@@ -281,9 +281,9 @@ Eight years ago.&lt;/p&gt;
   
   <entry>
     <title>Free at last</title>
-    <link href="http://smnevans.github.com/smnevans/Notes/free-at-last/"/>
+    <link href="http://smnevans.com/Notes/free-at-last/"/>
     <updated>2010-11-24T11:12:59+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Notes/free-at-last</id>
+    <id>http://smnevans.com/Notes/free-at-last</id>
     <content type="html">&lt;p&gt;While all the Mac news sites have covered AirPlay and AirPrint at length, they&amp;#8217;ve missed my favourite feature in iOS 4.2.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;There is now a toggle in the Settings app to disable red-line spell-checking!&lt;/em&gt;&lt;/p&gt;
@@ -292,9 +292,9 @@ Eight years ago.&lt;/p&gt;
   
   <entry>
     <title>Lost Notes #1</title>
-    <link href="http://smnevans.github.com/smnevans/Notes/lost-notes-1/"/>
+    <link href="http://smnevans.com/Notes/lost-notes-1/"/>
     <updated>2010-11-04T13:35:37+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Notes/lost-notes-1</id>
+    <id>http://smnevans.com/Notes/lost-notes-1</id>
     <content type="html">&lt;p&gt;Watched the first two episodes of the final season of Lost last night.
 Hmmm. I wonder, if you create a world in which anything can happen (with little or no explanation), then how can you expect us to really care about anything that happens.&lt;/p&gt;
 
@@ -307,9 +307,9 @@ Major character comes back to life: Do we have any more chips?&lt;/p&gt;
   
   <entry>
     <title>Wait up, baldy!</title>
-    <link href="http://smnevans.github.com/smnevans/Notes/wait-up-baldy/"/>
+    <link href="http://smnevans.com/Notes/wait-up-baldy/"/>
     <updated>2010-10-31T12:06:28+09:00</updated>
-    <id>http://smnevans.github.com/smnevans/Notes/wait-up-baldy</id>
+    <id>http://smnevans.com/Notes/wait-up-baldy</id>
     <content type="html">&lt;p&gt;So, I&amp;#8217;m coming out of a convenience store this morning. Coming towards the store is a father with his two kids, a boy and a girl, both around seven or eight. Very normal looking family for these parts, dressed in Sunday casual. Tracksuits.&lt;/p&gt;
 
 &lt;p&gt;The girl, who is on a bike, is going a little bit fast and crashes into another bike. Her purse and cell phone fly from the basket to the ground. &amp;#8220;Pick it up!&amp;#8221; she barks, to her father, who does as he&amp;#8217;s been told. No hint of anger or annoyance.&lt;/p&gt;
